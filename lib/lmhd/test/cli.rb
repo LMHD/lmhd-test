@@ -5,8 +5,8 @@ module LMHD
 	module Test
 		class CLI < Thor
 
-			desc "hi", "Says hi"
-			def hi(language)
+			desc "hi LANG", "Says hi"
+			def hi(language=nil)
 				puts LMHD::Test::Hello.hi(language)
 			end
 
