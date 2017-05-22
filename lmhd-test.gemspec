@@ -5,7 +5,7 @@ require 'lmhd/test/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "lmhd-test"
-  spec.version       = Lmhd::Test::VERSION
+  spec.version       = LMHD::Test::VERSION
   spec.authors       = ["Lucy Davies"]
   spec.email         = ["lucy@lucymhdavies.com"]
 

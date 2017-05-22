@@ -1,4 +1,4 @@
-module Lmhd
+module LMHD
 	module Test
 
 		# Hello World
