@@ -1,4 +1,5 @@
 require "lmhd/test/version"
+require "lmhd/test/hello"
 
 module Lmhd
   module Test
