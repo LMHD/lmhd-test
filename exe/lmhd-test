@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'lmhd/test/cli'
+LMHD::Test::CLI.start
